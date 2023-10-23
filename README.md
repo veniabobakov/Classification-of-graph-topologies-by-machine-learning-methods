@@ -1,13 +1,13 @@
 # Classification-of-graph-topologies-by-machine-learning-methods
-## *Это репозиторий для статьи "Classification of graph topologies by machine learning methods".*
+### *Это репозиторий для статьи "Classification of graph topologies by machine learning methods".*
 В данной работе сравнивались классические методы машинного обучения и Graph Isomorphism Network в задаче классификации 
 сетевых архитектур.
-Для классификации мы сгенерировали четыре вида сетевых архитектур:
+#### Для классификации мы сгенерировали четыре вида сетевых архитектур:
 - ScaleFree
 - SmallWorld
 - Random networks
-- Regular networks  
-Для сравнения с графовыми сетями использовались следующие алгоритмы машинного обучения:
+- Regular networks
+#### Для сравнения с графовыми сетями использовались следующие алгоритмы машинного обучения:
 - Метод опорных векторов
 - Деревья решений
 - Линейный дискриминантный анализ  
